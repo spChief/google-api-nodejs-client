@@ -16,7 +16,7 @@
     "!build/src/**/*.map"
   ],
   "repository": "googleapis/google-api-nodejs-client",
-  "name": "googleapis",
+  "name": "googleapis-singularity",
   "version": "39.0.0",
   "scripts": {
     "pretest": "npm run compile",
